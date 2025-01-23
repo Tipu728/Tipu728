@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Ali Haider
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning deep learnig
+- 👯 I’m looking to collaborate on GenAI
+💬 Ask me about Machine Learning, Deep Learning and NLP
 
 
 <!---
